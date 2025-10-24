@@ -23,7 +23,7 @@ Observações:
 
 ## 🔍 Buscando CEP
 <p align="center">
-  <img src="https://github.com/alanandersondev/desafio-conta-bancaria/blob/main/src/readme-img/Tela.png" width="200">
+  <img src="https://github.com/alanandersondev/desafio-api-busca-cep/blob/main/img-readme/01%20-%20Digitando%20CEP.png" width="200">
 </br>
   Exemplo de busca por cep
 </p>
